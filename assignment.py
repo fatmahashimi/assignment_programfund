@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+#code_1
 class Airport:
     # Constructor to initialize the airport with its details
     def __init__(self, gate, boarding_time, terminal, departure_airport_code, arrival_airport_code):
@@ -60,6 +60,7 @@ class Airport:
 
 
 
+#code_2
 
 class ElectronicTicket:
     def __init__(self, ticket_number):
