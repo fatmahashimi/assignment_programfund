@@ -57,6 +57,10 @@ class Airport:
     def get_flight_status(self):
         pass
 
+
+
+
+
 class ElectronicTicket:
     def __init__(self, ticket_number):
         self.ticket_number = ticket_number
